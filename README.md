@@ -20,7 +20,7 @@ This project uses modern css features of flexboxes and css-grid along with javas
 <h4>4-Edit the task in the list when editing is completed .</h4>
 <br>
 <hr>
-<h6 align="right">Pushpendra Kumar</h6>
+<h6 align="center">copyright @ Pushpendra Kumar</h6>
 
 
 
